@@ -2,9 +2,14 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Basic Homelab Running Active Directory</b>
-  - [Basic Homelab Running Active Directory](https://github.com/)
+- [Basic Homelab Running Active Directory](https://github.com/)
 
+
+<h2>📄 Certifications</h2>
+
+- [(ISC)2 Certified In Cybersecurity](https://my.isc2.org/s/MemberVerification)
+  - Last Name: Zameer | ISC2 ID Number: 2097859   
+  
 
 <h2> 🤳 Connect with me:</h2>
 
