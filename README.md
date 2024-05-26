@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- [Real-Time RDP Attack Geolocation with Azure Sentinel and PowerShell](https://github.com/roshanzameer01/RDPAttack-Monitoring-With-AzureSentinel)
 - [Basic Homelab Running Active Directory](https://github.com/roshanzameer01/ActiveDirectoryLab)
+- [Analyzing Wireless Access Points Using inSSIDer](https://github.com/roshanzameer01/AnalyzingWirelessAccessPoint)
 
 
 <h2>📄 Certifications</h2>
