@@ -9,8 +9,7 @@
 
 <h2>📄 Certifications</h2>
 
-- [(ISC)2 Certified In Cybersecurity](https://my.isc2.org/s/MemberVerification)
-  - Last Name: Zameer | ISC2 ID Number: 2097859   
+- [(ISC)2 Certified In Cybersecurity](https://www.credly.com/badges/305e09f2-1bf7-4f70-a461-46f8a5c8b74b/public_url)
   
 
 <h2> 🤳 Connect with me:</h2>
