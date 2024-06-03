@@ -4,6 +4,7 @@
 
 - [Real-Time RDP Attack Geolocation with Azure Sentinel and PowerShell](https://github.com/roshanzameer01/RDPAttack-Monitoring-With-AzureSentinel)
 - [Basic Homelab Running Active Directory](https://github.com/roshanzameer01/ActiveDirectoryLab)
+- [Network Reconnaissance and Scanning](https://github.com/roshanzameer01/Network-Reconnaisance-and-Scanning)
 - [Analyzing Wireless Access Points Using inSSIDer](https://github.com/roshanzameer01/AnalyzingWirelessAccessPoint)
 
 
